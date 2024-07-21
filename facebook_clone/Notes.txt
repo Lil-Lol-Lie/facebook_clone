@@ -1,0 +1,4 @@
+First create a class function in models then create a function in views.py to pass in Javascript in Jason "function.js" 
+then create a URL for that new function created. Go to frontend HTML and added
+new URL link to html
+
